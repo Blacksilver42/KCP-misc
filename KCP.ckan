@@ -1,0 +1,140 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the default KSP instance",
+	"name": "installed-default",
+	"license": "unknown",
+	"version": "2017.09.22.07.34.34",
+	"identifier": "installed-default",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "DMagicScienceAnimate"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "CommunityTerrainTexturePack"
+		},
+		{
+			"name": "CustomBarnKit"
+		},
+		{
+			"name": "EasyVesselSwitch"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "FMRSContinued"
+		},
+		{
+			"name": "HullcamVDSContinued"
+		},
+		{
+			"name": "RecoveryController"
+		},
+		{
+			"name": "HyperEdit"
+		},
+		{
+			"name": "InterstellarFuelSwitch"
+		},
+		{
+			"name": "K2CommandPodCont"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "Kerbalism"
+		},
+		{
+			"name": "KerbalKonstructs"
+		},
+		{
+			"name": "KerbalKrashSystem"
+		},
+		{
+			"name": "SpaceXLegs"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "KerbinSideGAP"
+		},
+		{
+			"name": "ContractConfigurator"
+		},
+		{
+			"name": "KerbinSideCore"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "KWRocketryRedux-GraduatedPwr"
+		},
+		{
+			"name": "MagiCore"
+		},
+		{
+			"name": "ManeuverNodeEvolved"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "RetractableLiftingSurface"
+		},
+		{
+			"name": "SCANsat"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "SpaceY-Expanded"
+		},
+		{
+			"name": "SpaceY-Lifters"
+		},
+		{
+			"name": "Trajectories"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "ProceduralParts"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "KWRocketryRedux"
+		},
+		{
+			"name": "RealPlume"
+		}
+	]
+}
