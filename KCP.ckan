@@ -3,36 +3,21 @@
 	"abstract": "A list of modules installed on the default KSP instance",
 	"name": "installed-default",
 	"license": "unknown",
-	"version": "2017.09.22.07.34.34",
+	"version": "2017.09.24.07.01.53",
 	"identifier": "installed-default",
 	"spec_version": "v1.6",
 	"recommends": [
 		{
-			"name": "MechJeb2"
+			"name": "DMagicOrbitalScience"
 		},
 		{
 			"name": "ModuleManager"
 		},
 		{
-			"name": "CommunityResourcePack"
-		},
-		{
-			"name": "DMagicScienceAnimate"
+			"name": "ProgressParser"
 		},
 		{
 			"name": "B9PartSwitch"
-		},
-		{
-			"name": "CommunityTerrainTexturePack"
-		},
-		{
-			"name": "CustomBarnKit"
-		},
-		{
-			"name": "EasyVesselSwitch"
-		},
-		{
-			"name": "FirespitterCore"
 		},
 		{
 			"name": "FMRSContinued"
@@ -44,22 +29,7 @@
 			"name": "RecoveryController"
 		},
 		{
-			"name": "HyperEdit"
-		},
-		{
 			"name": "InterstellarFuelSwitch"
-		},
-		{
-			"name": "K2CommandPodCont"
-		},
-		{
-			"name": "KerbalAlarmClock"
-		},
-		{
-			"name": "KerbalEngineerRedux"
-		},
-		{
-			"name": "Kerbalism"
 		},
 		{
 			"name": "KerbalKonstructs"
@@ -71,15 +41,6 @@
 			"name": "SpaceXLegs"
 		},
 		{
-			"name": "InterstellarFuelSwitch-Core"
-		},
-		{
-			"name": "KerbinSideGAP"
-		},
-		{
-			"name": "ContractConfigurator"
-		},
-		{
 			"name": "KerbinSideCore"
 		},
 		{
@@ -89,28 +50,10 @@
 			"name": "KWRocketryRedux-GraduatedPwr"
 		},
 		{
-			"name": "MagiCore"
-		},
-		{
-			"name": "ManeuverNodeEvolved"
-		},
-		{
-			"name": "NearFutureSolar"
-		},
-		{
-			"name": "NearFutureSolar-Core"
-		},
-		{
 			"name": "RealPlume-StockConfigs"
 		},
 		{
-			"name": "RetractableLiftingSurface"
-		},
-		{
 			"name": "SCANsat"
-		},
-		{
-			"name": "SmokeScreen"
 		},
 		{
 			"name": "SpaceY-Expanded"
@@ -128,6 +71,12 @@
 			"name": "ProceduralParts"
 		},
 		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
 			"name": "ModularFlightIntegrator"
 		},
 		{
@@ -135,6 +84,24 @@
 		},
 		{
 			"name": "RealPlume"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "Kerbalism"
+		},
+		{
+			"name": "DMagicScienceAnimate"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "PartOverhauls"
 		}
 	]
 }
