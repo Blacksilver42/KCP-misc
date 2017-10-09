@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the default KSP instance",
 	"name": "installed-default",
 	"license": "unknown",
-	"version": "2017.09.24.07.01.53",
+	"version": "2017.10.09.01.11.03",
 	"identifier": "installed-default",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -29,7 +29,7 @@
 			"name": "RecoveryController"
 		},
 		{
-			"name": "InterstellarFuelSwitch"
+			"name": "Kopernicus"
 		},
 		{
 			"name": "KerbalKonstructs"
@@ -44,7 +44,7 @@
 			"name": "KerbinSideCore"
 		},
 		{
-			"name": "Kopernicus"
+			"name": "InterstellarFuelSwitch"
 		},
 		{
 			"name": "KWRocketryRedux-GraduatedPwr"
@@ -102,6 +102,15 @@
 		},
 		{
 			"name": "PartOverhauls"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "EditorExtensionsRedux"
+		},
+		{
+			"name": "JanitorsCloset"
 		}
 	]
 }
