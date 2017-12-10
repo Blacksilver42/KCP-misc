@@ -3,21 +3,42 @@
 	"abstract": "A list of modules installed on the default KSP instance",
 	"name": "installed-default",
 	"license": "unknown",
-	"version": "2017.10.09.01.11.03",
+	"version": "2017.12.10.06.49.02",
 	"identifier": "installed-default",
 	"spec_version": "v1.6",
 	"recommends": [
 		{
-			"name": "DMagicOrbitalScience"
+			"name": "PilotAssistant"
 		},
 		{
-			"name": "ModuleManager"
+			"name": "ProceduralDynamics"
 		},
 		{
-			"name": "ProgressParser"
+			"name": "MechJeb2"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "DMagicScienceAnimate"
+		},
+		{
+			"name": "BluedogDB"
 		},
 		{
 			"name": "B9PartSwitch"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "CustomBarnKit"
+		},
+		{
+			"name": "EasyVesselSwitch"
+		},
+		{
+			"name": "FirespitterCore"
 		},
 		{
 			"name": "FMRSContinued"
@@ -29,7 +50,19 @@
 			"name": "RecoveryController"
 		},
 		{
-			"name": "Kopernicus"
+			"name": "HyperEdit"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "K2CommandPodCont"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "KerbalEngineerRedux"
 		},
 		{
 			"name": "KerbalKonstructs"
@@ -41,19 +74,49 @@
 			"name": "SpaceXLegs"
 		},
 		{
+			"name": "InterstellarFuelSwitch"
+		},
+		{
+			"name": "KerbinSideGAP"
+		},
+		{
+			"name": "KerbinSideKampus"
+		},
+		{
+			"name": "ContractConfigurator"
+		},
+		{
 			"name": "KerbinSideCore"
 		},
 		{
-			"name": "InterstellarFuelSwitch"
+			"name": "CommunityTerrainTexturePack"
 		},
 		{
 			"name": "KWRocketryRedux-GraduatedPwr"
 		},
 		{
-			"name": "RealPlume-StockConfigs"
+			"name": "MagiCore"
+		},
+		{
+			"name": "ManeuverNodeEvolved"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "RetractableLiftingSurface"
 		},
 		{
 			"name": "SCANsat"
+		},
+		{
+			"name": "SmokeScreen"
 		},
 		{
 			"name": "SpaceY-Expanded"
@@ -68,15 +131,6 @@
 			"name": "TweakScale"
 		},
 		{
-			"name": "ProceduralParts"
-		},
-		{
-			"name": "CommunityResourcePack"
-		},
-		{
-			"name": "InterstellarFuelSwitch-Core"
-		},
-		{
 			"name": "ModularFlightIntegrator"
 		},
 		{
@@ -86,31 +140,10 @@
 			"name": "RealPlume"
 		},
 		{
-			"name": "SmokeScreen"
+			"name": "RealPlume-StockConfigs"
 		},
 		{
-			"name": "Kerbalism"
-		},
-		{
-			"name": "DMagicScienceAnimate"
-		},
-		{
-			"name": "MechJeb2"
-		},
-		{
-			"name": "KerbalEngineerRedux"
-		},
-		{
-			"name": "PartOverhauls"
-		},
-		{
-			"name": "KerbalAlarmClock"
-		},
-		{
-			"name": "EditorExtensionsRedux"
-		},
-		{
-			"name": "JanitorsCloset"
+			"name": "RCSBuildAidCont"
 		}
 	]
 }
