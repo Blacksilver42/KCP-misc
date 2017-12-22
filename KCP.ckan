@@ -1,44 +1,23 @@
 {
 	"kind": "metapackage",
-	"abstract": "KCP modlist",
+	"abstract": "A list of modules installed on the default KSP instance",
 	"name": "installed-default",
-	"license": "UNLICENSE",
-	"version": "2017.12.10.06.49.02",
+	"license": "unknown",
+	"version": "2017.12.22.01.05.10",
 	"identifier": "installed-default",
 	"spec_version": "v1.6",
-	"depends": [
+	"recommends": [
 		{
-			"name": "PilotAssistant"
+			"name": "DMagicOrbitalScience"
 		},
 		{
-			"name": "ProceduralDynamics"
+			"name": "ModuleManager"
 		},
 		{
-			"name": "MechJeb2"
-		},
-		{
-			"name": "CommunityResourcePack"
-		},
-		{
-			"name": "DMagicScienceAnimate"
-		},
-		{
-			"name": "BluedogDB"
+			"name": "ProgressParser"
 		},
 		{
 			"name": "B9PartSwitch"
-		},
-		{
-			"name": "Kopernicus"
-		},
-		{
-			"name": "CustomBarnKit"
-		},
-		{
-			"name": "EasyVesselSwitch"
-		},
-		{
-			"name": "FirespitterCore"
 		},
 		{
 			"name": "FMRSContinued"
@@ -50,21 +29,6 @@
 			"name": "RecoveryController"
 		},
 		{
-			"name": "HyperEdit"
-		},
-		{
-			"name": "InterstellarFuelSwitch-Core"
-		},
-		{
-			"name": "K2CommandPodCont"
-		},
-		{
-			"name": "KerbalAlarmClock"
-		},
-		{
-			"name": "KerbalEngineerRedux"
-		},
-		{
 			"name": "KerbalKonstructs"
 		},
 		{
@@ -74,49 +38,19 @@
 			"name": "SpaceXLegs"
 		},
 		{
-			"name": "InterstellarFuelSwitch"
-		},
-		{
-			"name": "KerbinSideGAP"
-		},
-		{
-			"name": "KerbinSideKampus"
-		},
-		{
-			"name": "ContractConfigurator"
-		},
-		{
 			"name": "KerbinSideCore"
 		},
 		{
-			"name": "CommunityTerrainTexturePack"
+			"name": "InterstellarFuelSwitch"
 		},
 		{
 			"name": "KWRocketryRedux-GraduatedPwr"
 		},
 		{
-			"name": "MagiCore"
+			"name": "RealPlume-StockConfigs"
 		},
 		{
-			"name": "ManeuverNodeEvolved"
-		},
-		{
-			"name": "NearFutureSolar"
-		},
-		{
-			"name": "NearFutureSolar-Core"
-		},
-		{
-			"name": "ModuleManager"
-		},
-		{
-			"name": "RetractableLiftingSurface"
-		},
-		{
-			"name": "SCANsat"
-		},
-		{
-			"name": "SmokeScreen"
+			"name": "TweakScale"
 		},
 		{
 			"name": "SpaceY-Expanded"
@@ -128,7 +62,16 @@
 			"name": "Trajectories"
 		},
 		{
-			"name": "TweakScale"
+			"name": "SCANsat"
+		},
+		{
+			"name": "ProceduralParts"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
 		},
 		{
 			"name": "ModularFlightIntegrator"
@@ -140,10 +83,34 @@
 			"name": "RealPlume"
 		},
 		{
-			"name": "RealPlume-StockConfigs"
+			"name": "SmokeScreen"
 		},
 		{
-			"name": "RCSBuildAidCont"
+			"name": "Kerbalism"
+		},
+		{
+			"name": "DMagicScienceAnimate"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "PartOverhauls"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "EditorExtensionsRedux"
+		},
+		{
+			"name": "JanitorsCloset"
+		},
+		{
+			"name": "KerbalXMod"
 		}
 	]
 }
